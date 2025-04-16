@@ -18,3 +18,11 @@ This is a real-world solution demo from the [TickTechStack YouTube channel](http
 ## 🛠️ Setup
 ```bash
 # steps to run
+
+```
+## 🤝 Stay Connected
+
+Follow **TickTechStack** across platforms for more real-world dev content:
+- 📺 [YouTube](https://www.youtube.com/@TickTechStack)
+- 🐦 [Twitter](https://twitter.com/ticktechstack)
+- 📸 [Instagram](https://www.instagram.com/ticktechstack)
